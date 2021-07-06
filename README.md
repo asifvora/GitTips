@@ -37,7 +37,7 @@ git rebase --continue //optional if conflicts occur
 git push -f
 ```
 
-How to addd file in git stash with stage file :
+How to add file in git stash with stage file :
 ```sh
 git stash save -u <name_of_stash>
 ```
